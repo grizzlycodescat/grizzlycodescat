@@ -4,11 +4,7 @@
 
 - 🌱 I’m currently on the CPTS course by HTB
 
-- 👨‍💻 All of my projects are available at [https://github.com/grizzlycodescat?tab=repositories](https://github.com/grizzlycodescat?tab=repositories)
-
 - 💬 Ask me about **React, NextJs, Java**
-
-- 📫 How to reach me **https://www.linkedin.com/in/jeromepapalie/**
 
 - ⚡ Fun fact **I climb, I dive, now all that's left is to fly~**
 <br/>
