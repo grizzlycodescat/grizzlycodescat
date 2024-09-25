@@ -2,7 +2,7 @@
 <h3 align="left">A Full Stack Engineer with a splash of UI/UX.</h3>
 <br/>
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently on the CPTS course by HTB
 
 - 👨‍💻 All of my projects are available at [https://github.com/grizzlycodescat?tab=repositories](https://github.com/grizzlycodescat?tab=repositories)
 
