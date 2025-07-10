@@ -22,7 +22,7 @@ I am a Full Stack Engineer with a passion for Cyber Security. Here is where I'll
 <img align="left" alt="java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img salign="left" alt="java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
-<br/><br/>
+<br/>
 
 ### Links
 
