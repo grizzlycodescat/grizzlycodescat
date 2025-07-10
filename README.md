@@ -3,7 +3,7 @@
 `Full Stack Engineer | Security Enthusiast`
 
 I am a Full Stack Engineer with a passion for Cyber Security. Here is where I'll be penning down my notes, walkthroughs of all the CTFs I'm doing, along with other projects and scripts that might be useful.
-<br/><br/>
+<br/>
 
 <details>
 	<summary><h3>How I got here</h3></summary>
@@ -11,6 +11,7 @@ I am a Full Stack Engineer with a passion for Cyber Security. Here is where I'll
 	<br/><br/>
 	I am currently pursuing my OSCP certification, and have been working on as many CTF boxes as I can through Hack The Box. I'm also documenting all my notes, thoughts, and writeups on gitbook.
 </details>
+
 ---
 
 ## Languages and Tools
