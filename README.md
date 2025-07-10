@@ -1,13 +1,8 @@
-<h1 align="left">Hey There, I'm Jerome</h1>
-<h3 align="left">A Full Stack Engineer with a splash of UI/UX.</h3>
-<br/>
+# Jerome Papalie
 
-- 🌱 I’m currently on the CPTS course by HTB
+`Full Stack Engineer | Security Enthusiast`
 
-- 💬 Ask me about **React, NextJs, Java**
-
-- ⚡ Fun fact **I climb, I dive, now all that's left is to fly~**
-<br/>
+I am a Full Stack Engineer with a passion for Cyber Security. Here is where I'll be penning down my notes, walkthroughs of all the CTFs I'm doing, along with other projects and scripts that might be useful.
 
 <h3 align="left">Connect with me:</h3>
 <br/>
