@@ -12,6 +12,8 @@ I am a Full Stack Engineer with a passion for Cyber Security. Here is where I'll
 	I am currently pursuing my OSCP certification, and have been working on as many CTF boxes as I can through Hack The Box. I'm also documenting all my notes, thoughts, and writeups on gitbook.
 </details>
 
+<br/>
+
 ### Languages and Tools
 
 <img align="left" alt="java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -21,6 +23,8 @@ I am a Full Stack Engineer with a passion for Cyber Security. Here is where I'll
 <img align="left" alt="java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+
+<br/>
 
 ### Links
 
